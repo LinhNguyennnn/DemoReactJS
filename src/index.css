@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.fa-star {
+  color: yellow;
+  cursor: pointer;
+}
+
+#root {
+  margin: 10px;
+}
+
+#root button {
+  margin-left: 10px;
+  cursor: pointer;
+}
